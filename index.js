@@ -1,5 +1,5 @@
 // write your code below!
-var name = LhalaDcolo 
+var name = "LhalaDcolo" 
 
 var height = "51";
 
